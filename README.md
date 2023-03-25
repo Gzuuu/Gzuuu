@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesué Ferreira</h1>
 <h3 align="center">A Web Development Student from Brazil!!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gzuuu" alt="gzuuu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gzuuu&theme=dracula&rank=S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true" alt="gzuuu" /></a> </p>
 
 - 🌱 I’m currently learning **Docker | RDB(SQL) | NRDB(mongoDB) | TypeScript**
 
