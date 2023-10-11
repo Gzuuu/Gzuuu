@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gzuuu&theme=dracula&rank=S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true" alt="gzuuu" /></a> </p>
 
-- 🌱 I’m currently learning **Docker | RDB(SQL) | NRDB(mongoDB) | TypeScript**
-
-- 💬 Ask me about **React | Hooks | CSS**
+- 🌱 I’m currently learning about **C# | Blender | Unity**
 
 - 📫 How to reach me **jesue_gege@hotmail.com**
 
